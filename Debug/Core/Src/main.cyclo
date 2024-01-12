@@ -1,0 +1,8 @@
+../Core/Src/main.c:72:5:main	1
+../Core/Src/main.c:123:6:SystemClock_Config	3
+../Core/Src/main.c:173:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:208:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:241:13:MX_DMA_Init	1
+../Core/Src/main.c:259:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:DMATransferComplete	1
+../Core/Src/main.c:322:6:Error_Handler	1
